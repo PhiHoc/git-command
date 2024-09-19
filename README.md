@@ -1,4 +1,4 @@
-#Fetch all và xóa nhánh local
+# Fetch all và xóa nhánh local
 ```
 git fetch --all
 git checkout main
